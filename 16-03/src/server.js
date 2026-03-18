@@ -7,7 +7,7 @@ const port = 3000
 
 app.get('/', (req, res) => {
     res.send('There are no routes here.')
-})
+})  
 
 app.use('/fruits', fruitsRoute)
 
