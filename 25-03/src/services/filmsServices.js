@@ -1,9 +1,13 @@
 import films from '../config/dbFilms.js'
 
-const getFilms = () => films
+class FilmsService {
+    getAll() {
+        return films
+    }
 
-const getById = (id) => { 
-    return films.find(film => film.id === parseInt(id))
+    getById(id) {
+        return films.find(f => f.id === parseInt(id))
+    }
 }
 
-export default { getFilms, getById }
+export const filmsServices = new FilmsService()
