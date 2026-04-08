@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Maçã",
+    "color": "Vermelho",
+    "price": "3,99"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "color": "Amarelo",
+    "price": "2,99"
+  },
+  {
+    "id": 4,
+    "name": "Laranja",
+    "color": "Laranja",
+    "price": "3,59"
+  },
+  {
+    "id": 4,
+    "name": "Laranja",
+    "color": "Laranja",
+    "price": "3,59"
+  },
+  {
+    "id": 4,
+    "name": "Laranja",
+    "color": "Laranja",
+    "price": "3,59"
+  },
+  {
+    "id": 5,
+    "name": "Abacaxi",
+    "color": "Dourado",
+    "price": "5,79"
+  }
+]
